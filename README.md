@@ -30,7 +30,6 @@
 - 🏷️ Auto-renames players using the format `[Role] Nickname`.
 - 🌈 Custom hint colors per role.
 - 📄 Fully customizable `.yml` config file.
-- 🧪 Extra options like TPS display, debug mode, and more.
 
 ---
 
