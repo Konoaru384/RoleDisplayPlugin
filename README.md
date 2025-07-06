@@ -41,9 +41,6 @@ Displayed nickname in game:
 
 ---
 
-## ⚙️ Requirements
-
----
 
 ## 🛠️ Example Configuration (`.yml`)
 
