@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/Konoaru384/RoleDisplayPlugin/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Konoaru384/RoleDisplayPlugin?label=📦%20Latest%20Release&color=blue&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/v/release/Konoaru384/RoleDisplayPlugin?label=Latest%20Release&color=blue&style=for-the-badge"/>
   </a>
   <a href="https://github.com/Konoaru384/RoleDisplayPlugin/releases">
-    <img src="https://img.shields.io/github/downloads/Konoaru384/RoleDisplayPlugin/total?label=⬇️%20Downloads&color=success&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/downloads/Konoaru384/RoleDisplayPlugin/total?label=Downloads&color=success&style=for-the-badge"/>
   </a>
   <a href="https://discord.gg/vxGeGFr5Bc">
-    <img src="https://img.shields.io/discord/1141087072728680530?label=💬%20Join%20Discord&logo=discord&color=7289da&style=for-the-badge"/>
+    <img src="https://img.shields.io/discord/1141087072728680530?label=Join%20Discord&logo=discord&color=7289da&style=for-the-badge"/>
   </a>
 </p>
 
