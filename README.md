@@ -11,7 +11,8 @@
   <a href="https://github.com/Konoaru384/RoleDisplayPlugin/releases">
     <img src="https://img.shields.io/github/downloads/Konoaru384/RoleDisplayPlugin/total?label=Downloads&color=success&style=for-the-badge"/>
   </a>
-  [![Join Discord](https://img.shields.io/badge/Join_Discord-7289da?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/vxGeGFr5Bc)
+  <a href="https://discord.gg/vxGeGFr5Bc">
+    <img src="https://img.shields.io/badge/Join%20Discord-7289da?logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
