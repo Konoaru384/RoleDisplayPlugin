@@ -43,11 +43,6 @@ Displayed nickname in game:
 
 ## ⚙️ Requirements
 
-| Component        | Minimum Version     |
-|------------------|---------------------|
-| 🧩 **Exiled**     | `v9.6.2`             |
-| 🎮 **SCP:SL**     | Latest stable build |
-
 ---
 
 ## 🛠️ Example Configuration (`.yml`)
