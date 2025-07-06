@@ -21,6 +21,8 @@
 > ⚠️ This plugin was originally commissioned for a player who later scammed me.  
 > I'm now releasing it publicly for the community to benefit from.
 
+> ⚠️ Plugin require Hint Service Meow (and 0Harmony in dependancies folder). ALL FILES IS IN THE RELASE !!!
+
 ## 🧩 Features
 
 - 🧬 Dynamic display of each role and its **custom description**.
