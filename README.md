@@ -4,17 +4,25 @@
   ✨ Enhance the roleplay experience on your SCP: Secret Laboratory servers  
 </p>
 
-<p align="center">
-  <a href="https://github.com/Konoaru384/RoleDisplayPlugin/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Konoaru384/RoleDisplayPlugin?label=Latest%20Release&color=blue&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Konoaru384/RoleDisplayPlugin/releases">
-    <img src="https://img.shields.io/github/downloads/Konoaru384/RoleDisplayPlugin/total?label=Downloads&color=success&style=for-the-badge"/>
-  </a>
-  <a href="https://discord.gg/vxGeGFr5Bc">
-    <img src="https://img.shields.io/badge/Join%20Discord-7289da?logo=discord&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Konoaru384/RoleDisplayPlugin/releases/latest">
+        <img src="https://img.shields.io/github/v/release/Konoaru384/RoleDisplayPlugin?label=Latest%20Release&color=blue&style=for-the-badge" alt="Latest Release" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Konoaru384/RoleDisplayPlugin/releases">
+        <img src="https://img.shields.io/github/downloads/Konoaru384/RoleDisplayPlugin/total?label=Total%20Downloads&color=success&style=for-the-badge" alt="Total Downloads" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.gg/vxGeGFr5Bc">
+        <img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord" alt="Discord" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
