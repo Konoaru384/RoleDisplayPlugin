@@ -1,7 +1,7 @@
-<h1 align="center">🎭 RoleDisplay – RP Plugin for SCP:SL</h1>
+# 🎭 RoleDisplay – RP Plugin for SCP:SL
 
 <p align="center">
-  ✨ An immersive plugin to enhance Roleplay experience on your SCP: Secret Laboratory servers  
+  ✨ Enhance the roleplay experience on your SCP: Secret Laboratory servers  
 </p>
 
 <p align="center">
@@ -18,30 +18,34 @@
 
 ---
 
-> ⚠️ This plugin was originally commissioned for a player who later scammed me.  
-> I'm now releasing it publicly for the community to benefit from.
+> ⚠️ **Important Note**  
+> This plugin was originally commissioned for a player who ended up scamming me.  
+> I'm releasing it publicly so the community can benefit from it.
 
-> ⚠️ Plugin require Hint Service Meow (and 0Harmony in dependancies folder). ALL FILES IS IN THE RELASE !!!
-
-## 🧩 Features
-
-- 🧬 Dynamic display of each role and its **custom description**.
-- 🎭 Option to assign **random names per role** — great for immersive RP.
-- 🏷️ Auto-renames players using the format `[Role] Nickname`.
-- 🌈 Custom hint colors per role.
-- 📄 Fully customizable `.yml` config file.
+> ⚠️ **Dependencies**  
+> This plugin requires **Hint Service Meow** and **0Harmony** to be in the `dependencies` folder.  
+> All required files are included in the release!
 
 ---
 
-## 🖼️ RP Visual Example
+## 🧩 Features
 
-Displayed nickname in game:  
+- 🧬 Displays each role with a **custom description**
+- 🎭 Supports **random RP names** per role
+- 🏷️ Automatically formats player nicknames as `[Role] Nickname`
+- 🌈 Allows **custom hint colors** per role
+- ⚙️ Fully configurable using a `.yml` file
+
+---
+
+## 🖼️ RP Display Example
+
+Displayed nickname in-game:  
 💡 `[Lead Biologist] Jordan`
 
 ---
 
-
-## 🛠️ Example Configuration (`.yml`)
+## 🛠️ Sample Configuration (`.yml`)
 
 ```yaml
 role_display:
